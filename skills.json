@@ -1,71 +1,71 @@
 [
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/python--v1.png"
     },
     {
         "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/javascript--v1.png"
     },
     {
         "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/java-coffee-cup-logo--v1.png"
     },
     {
         "name": "R",
-        "icon": "https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=64&id=CLvQeiwFpit4&format=png&color=000000"
     },
 
     {
         "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+        "icon": "https://img.icons8.com/color/64/000000/postgreesql.png"
     },
     {
         "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "icon": "https://img.icons8.com/color/64/000000/mysql-logo.png"
     },
 
     {
         "name": "Microsoft Excel",
-        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"
+        "icon": "https://img.icons8.com/color/64/000000/microsoft-excel-2019.png"
     },
     {
         "name": "Power BI",
-        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+        "icon": "https://img.icons8.com/color/64/000000/power-bi.png"
     },
 
     {
         "name": "Pandas",
-        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+        "icon": "https://img.icons8.com/color/64/000000/pandas.png"
     },
     {
         "name": "NumPy",
-        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+        "icon": "https://img.icons8.com/color/64/000000/numpy.png"
     },
     {
         "name": "Dask",
-        "icon": "https://avatars.githubusercontent.com/u/17131925?s=48"
+        "icon": "https://avatars.githubusercontent.com/u/17131925?s=64"
     },
     {
         "name": "Apache Spark",
-        "icon": "https://img.icons8.com/color/48/000000/apache-spark.png"
+        "icon": "https://img.icons8.com/color/64/000000/apache-spark.png"
     },
     {
         "name": "PySpark",
-        "icon": "https://avatars.githubusercontent.com/u/17131925?s=48"
+        "icon": "https://avatars.githubusercontent.com/u/17131925?s=64"
     },
 
     {
         "name": "Scikit-learn",
-        "icon": "https://img.icons8.com/color/48/000000/scikit-learn.png"
+        "icon": "https://img.icons8.com/color/64/000000/scikit-learn.png"
     },
     {
         "name": "PyTorch",
-        "icon": "https://img.icons8.com/color/48/000000/pytorch.png"
+        "icon": "https://img.icons8.com/color/64/000000/pytorch.png"
     },
     {
         "name": "TensorFlow",
-        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+        "icon": "https://img.icons8.com/color/64/000000/tensorflow.png"
     },
     {
         "name": "XGBoost",
@@ -74,62 +74,62 @@
 
     {
         "name": "Matplotlib",
-        "icon": "https://avatars.githubusercontent.com/u/215947?s=48"
+        "icon": "https://avatars.githubusercontent.com/u/215947?s=64"
     },
     {
         "name": "Seaborn",
-        "icon": "https://avatars.githubusercontent.com/u/22799945?s=48"
+        "icon": "https://avatars.githubusercontent.com/u/22799945?s=64"
     },
     {
         "name": "Plotly",
-        "icon": "https://img.icons8.com/color/48/000000/plotly.png"
+        "icon": "https://img.icons8.com/color/64/000000/plotly.png"
     },
     {
         "name": "D3.js",
-        "icon": "https://img.icons8.com/color/48/000000/d3.png"
+        "icon": "https://img.icons8.com/color/64/000000/d3.png"
     },
 
     {
         "name": "React",
-        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+        "icon": "https://img.icons8.com/color/64/000000/react-native.png"
     },
     {
         "name": "Node.js",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "icon": "https://img.icons8.com/color/64/000000/nodejs.png"
     },
 
     {
         "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "icon": "https://img.icons8.com/color/64/000000/amazon-web-services.png"
     },
     {
         "name": "Microsoft Azure",
-        "icon": "https://img.icons8.com/color/48/000000/azure-1.png"
+        "icon": "https://img.icons8.com/color/64/000000/azure-1.png"
     },
     {
         "name": "Google Cloud Platform",
-        "icon": "https://img.icons8.com/color/48/000000/google-cloud.png"
+        "icon": "https://img.icons8.com/color/64/000000/google-cloud.png"
     },
 
     {
         "name": "Docker",
-        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+        "icon": "https://img.icons8.com/color/64/000000/docker.png"
     },
     {
         "name": "Kubernetes",
-        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+        "icon": "https://img.icons8.com/color/64/000000/kubernetes.png"
     },
 
     {
         "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "icon": "https://img.icons8.com/color/64/000000/git.png"
     },
     {
         "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/000000/github.png"
+        "icon": "https://img.icons8.com/glyph-neue/64/000000/github.png"
     },
     {
         "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "icon": "https://img.icons8.com/color/64/000000/mongodb.png"
     }
 ]
