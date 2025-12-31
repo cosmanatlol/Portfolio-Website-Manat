@@ -73,7 +73,7 @@
     },
     {
         "name": "D3.js",
-        "icon": "https://img.icons8.com/color/64/000000/d3.png"
+        "icon": "https://img.icons8.com/color/64/000000/combo-chart--v1.png"
     },
 
     {
@@ -112,10 +112,6 @@
         "icon": "https://img.icons8.com/color/64/000000/git.png"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/64/000000/github.png"
-    },
-    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/64/000000/mongodb.png"
     },
@@ -125,7 +121,7 @@
     },
     {
         "name": "CSS",
-        "icon": "https://img.icons8.com/?size=64&id=1045&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/64/css3.png"
     },
     {
         "name": "Tableau",
@@ -142,5 +138,9 @@
     {
         "name": "Power BI",
         "icon": "https://img.icons8.com/color/64/power-bi.png"
+    },
+    {
+        "name": "Data Modeling",
+        "icon": "https://img.icons8.com/color/64/data-configuration.png"
     }
 ]

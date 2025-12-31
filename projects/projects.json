@@ -1,7 +1,7 @@
 [
   {
     "name": "Stock News Analysis",
-    "desc": "Combines real-time news sentiment from major outlets with technical indicators to improve short-term stock price prediction using machine learning by integrating LLM-based sentiment scoring with XGBoost models.",
+    "desc": "Combines real-time news sentiment from major outlets with technical indicators to stock prediction by integrating LLM-based sentiment scoring with XGBoost models.",
     "image": "notystackandroid",
     "category": "coding",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Farmer Q&A Analysis",
-    "desc": "Analyzed 1.5M+ farmer Q&A records using NLP and visual analytics to uncover crop-specific vs. general information needs, revealing topic gaps, repetitive demand, and seasonal patterns across regions to better align agricultural knowledge supply with farmer needs",
+    "desc": "Analyzed 1.5M+ farmer Q&A records using NLP to uncover crop-specific vs. general information, repetitive demand, and seasonal patterns across regions to better answer questions.",
     "image": "notystackandroid",
     "category": "coding",
     "links": {
@@ -30,7 +30,7 @@
   },
   {
     "name": "Violent Crimes Comparison",
-    "desc": "Interactive website which allows users to compare violent crime statistics across different US cities using data visualizations like bar charts and line graphs to identify trends and patterns over time",
+    "desc": "Interactive website which allows users to compare violent crime statistics across different US cities using data visualizations to identify trends and patterns over time",
     "image": "notystackandroid",
     "category": "coding",
     "links": {
@@ -40,7 +40,7 @@
   },
   {
     "name": "Greenhouse Gas Emissions Analysis",
-    "desc": "Interactive Dashboard analyzing global greenhouse gas emissions data from 1990 to 2020, featuring visualizations like line charts and heatmaps to explore trends by country and sector, aiding in understanding and addressing climate change.",
+    "desc": "Interactive Dashboard analyzing global greenhouse gas emissions data from 1990 to 2020 to explore trends by country and sector, aiding in understandingx climate change.",
     "image": "notystackandroid",
     "category": "coding",
     "links": {
@@ -50,7 +50,7 @@
   },
   {
     "name": "Spotify Song Popularity Prediction",
-    "desc": "Built a Spotify song popularity predictor by analyzing large-scale audio and metadata features and training a custom PyTorch neural network, achieving 85% prediction accuracy in identifying drivers of hit songs.",
+    "desc": "Built a Spotify song popularity predictor by analyzing large-scale audio and metadata features and training a custom PyTorch neural network.",
     "image": "notystackandroid",
     "category": "coding",
     "links": {
