@@ -2,7 +2,7 @@
   {
     "name": "Stock News Analysis",
     "desc": "Combines real-time news sentiment from major outlets with technical indicators to stock prediction by integrating LLM-based sentiment scoring with XGBoost models.",
-    "image": "notystackandroid",
+    "image": "stocks",
     "category": "coding",
     "links": {
       "view": "https://cosmanatlol.github.io/stock_news/",
@@ -12,7 +12,7 @@
   {
     "name": "Credit Score Analysis/Prediction",
     "desc": "Developed a cashflow-based credit scoring model to assess defaultrisk for ‘credit invisible’ consumers lacking traditional credit histories.",
-    "image": "notystackandroid",
+    "image": "credit",
     "category": "coding",
     "links": {
       "view": "https://cosmanatlol.github.io/stock_news/",
@@ -22,7 +22,7 @@
   {
     "name": "Farmer Q&A Analysis",
     "desc": "Analyzed 1.5M+ farmer Q&A records using NLP to uncover crop-specific vs. general information, repetitive demand, and seasonal patterns across regions to better answer questions.",
-    "image": "notystackandroid",
+    "image": "farming",
     "category": "coding",
     "links": {
       "code": "https://github.com/cosmanatlol/Farmer-Issue-Analysis"
@@ -41,7 +41,7 @@
   {
     "name": "Greenhouse Gas Emissions Analysis",
     "desc": "Interactive Dashboard analyzing global greenhouse gas emissions data from 1990 to 2020 to explore trends by country and sector, aiding in understandingx climate change.",
-    "image": "notystackandroid",
+    "image": "treemap",
     "category": "coding",
     "links": {
       "view": "https://axie0927.github.io/dsc106-project3/",
@@ -51,7 +51,7 @@
   {
     "name": "Spotify Song Popularity Prediction",
     "desc": "Built a Spotify song popularity predictor by analyzing large-scale audio and metadata features and training a custom PyTorch neural network.",
-    "image": "notystackandroid",
+    "image": "spotify",
     "category": "coding",
     "links": {
       "view": "https://cosmanatlol.github.io/stock_ne"
@@ -60,7 +60,7 @@
   {
     "name": "Wordle Guesser",
     "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
-    "image": "notystackandroid",
+    "image": "wordle",
     "category": "coding",
     "links": {
       "view": "https://cosmanatlol.github.io/stock_ne"
