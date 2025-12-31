@@ -47,7 +47,7 @@
         "icon": "https://avatars.githubusercontent.com/u/17131925?s=64"
     },
     {
-        "name": "Apache Spark",
+        "name": "Spark",
         "icon": "https://img.icons8.com/color/64/000000/apache-spark.png"
     },
     {
@@ -57,32 +57,19 @@
 
     {
         "name": "Scikit-learn",
-        "icon": "https://img.icons8.com/color/64/000000/scikit-learn.png"
+        "icon": "https://img.icons8.com/cotton/64/artificial-intelligence.png"
     },
     {
         "name": "PyTorch",
-        "icon": "https://img.icons8.com/color/64/000000/pytorch.png"
+        "icon": "https://img.icons8.com/?size=64&id=jH4BpkMnRrU5&format=png&color=000000"
     },
     {
         "name": "TensorFlow",
         "icon": "https://img.icons8.com/color/64/000000/tensorflow.png"
     },
     {
-        "name": "XGBoost",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"
-    },
-
-    {
-        "name": "Matplotlib",
-        "icon": "https://avatars.githubusercontent.com/u/215947?s=64"
-    },
-    {
-        "name": "Seaborn",
-        "icon": "https://avatars.githubusercontent.com/u/22799945?s=64"
-    },
-    {
         "name": "Plotly",
-        "icon": "https://img.icons8.com/color/64/000000/plotly.png"
+        "icon": "https://img.icons8.com/color/64/cosine.png"
     },
     {
         "name": "D3.js",
@@ -103,11 +90,11 @@
         "icon": "https://img.icons8.com/color/64/000000/amazon-web-services.png"
     },
     {
-        "name": "Microsoft Azure",
+        "name": "Azure",
         "icon": "https://img.icons8.com/color/64/000000/azure-1.png"
     },
     {
-        "name": "Google Cloud Platform",
+        "name": "GCP",
         "icon": "https://img.icons8.com/color/64/000000/google-cloud.png"
     },
 
@@ -131,5 +118,29 @@
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/64/000000/mongodb.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/?size=64&id=13209&format=png&color=000000"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=64&id=1045&format=png&color=000000"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/64/tableau-software.png"
+    },
+    {
+        "name": "Salesforce",
+        "icon": "https://img.icons8.com/color/64/salesforce.png"
+    },
+    {
+        "name": "Bash",
+        "icon": "https://img.icons8.com/?size=64&id=1045&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/64/power-bi.png"
     }
 ]
