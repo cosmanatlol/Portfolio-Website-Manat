@@ -20,12 +20,12 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Joey Kaminsky";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            document.title = "Projects | Portfolio Manat Rao";
+            $("#favicon").attr("href", "../assets/images/favicon.png");
         }
         else {
-            document.title = "Projects | Portfolio Joey Kaminsky";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
+            document.title = "Projects | Portfolio Manat Rao";
+            $("#favicon").attr("href", "../assets/images/favhand.png");
         }
     });
 
@@ -47,7 +47,7 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="assets/images/projects/${project.image}" alt="project" />
+      <img draggable="false" src="../assets/images/projects/${project.image}" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
