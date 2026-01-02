@@ -49,15 +49,6 @@
     }
   },
   {
-    "name": "Spotify Song Popularity Prediction",
-    "desc": "Built a Spotify song popularity predictor by analyzing large-scale audio and metadata features and training a custom PyTorch neural network.",
-    "image": "spotify.png",
-    "category": "coding",
-    "links": {
-      "view": "https://cosmanatlol.github.io/stock_ne"
-    }
-  },
-  {
     "name": "Wordle Guesser",
     "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
     "image": "wordle.png",
