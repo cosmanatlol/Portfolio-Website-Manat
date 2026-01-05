@@ -31,7 +31,7 @@
   {
     "name": "Violent Crimes Comparison",
     "desc": "Interactive website which allows users to compare violent crime statistics across different US cities using data visualizations to identify trends and patterns over time",
-    "image": "wordle.png",
+    "image": "heatmap.jpg",
     "category": "coding",
     "links": {
       "view": "https://cosmanatlol.github.io/violent-crimes-comparison/",
