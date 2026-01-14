@@ -21,7 +21,7 @@
   },
   {
     "name": "Farmer Q&A Analysis",
-    "desc": "Analyzed 1.5M+ farmer Q&A records using NLP to uncover crop-specific vs. general information, repetitive demand, and seasonal patterns across regions to better answer questions.",
+    "desc": "Analyzed 1.5M+ farmer Q&A records using NLP to uncover crop-specific vs. general information, repetitive demand, and seasonal patterns to better answer questions.",
     "image": "farming.jpg",
     "category": "coding",
     "links": {
