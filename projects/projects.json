@@ -15,7 +15,7 @@
     "image": "credit.jpg",
     "category": "coding",
     "links": {
-      "view": "https://cosmanatlol.github.io/stock_news/",
+      "view": "https://drive.google.com/file/d/1HG4IxRT1aVtkvHjUDEyszgrnA3L_K1AB/view?usp=sharing",
       "code": "https://github.com/cosmanatlol/mlc-sp25-car"
     }
   },
@@ -25,6 +25,7 @@
     "image": "farming.jpg",
     "category": "coding",
     "links": {
+      "view": "https://github.com/cosmanatlol/Farmer-Issue-Analysis",
       "code": "https://github.com/cosmanatlol/Farmer-Issue-Analysis"
     }
   },
@@ -54,7 +55,7 @@
     "image": "wordle.png",
     "category": "coding",
     "links": {
-      "view": "https://cosmanatlol.github.io/stock_ne"
+      "view": "https://github.com/cosmanatlol/Portfolio-Website-Manat/blob/main/projects/wordle.md"
     }
   }
 ]
