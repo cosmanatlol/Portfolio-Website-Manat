@@ -231,16 +231,12 @@ srtop.reveal('.about .content p', { delay: 200 });
 srtop.reveal('.about .content .box-container', { delay: 200 });
 srtop.reveal('.about .content .resumebtn', { delay: 200 });
 
-
 /* SCROLL SKILLS */
 srtop.reveal('.skills .container', { interval: 200 });
 srtop.reveal('.skills .container .bar', { delay: 400 });
 
 /* SCROLL EDUCATION */
 srtop.reveal('.education .box', { interval: 200 });
-
-/* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 200 });
 
 /* SCROLL EXPERIENCE */
 srtop.reveal('.experience .timeline', { delay: 400 });
@@ -249,3 +245,19 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+
+/* PROJECTS - less aggressive */
+ScrollReveal().reveal('.work .box', {
+    origin: 'top',
+    distance: '40px',
+    duration: 1000,
+    interval: 200,
+    reset: true,
+    viewFactor: 0.1,
+    viewOffset: {
+        top: 0,
+        right: 0,
+        bottom: -100,
+        left: 0
+    }
+});
