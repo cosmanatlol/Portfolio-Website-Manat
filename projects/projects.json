@@ -15,7 +15,7 @@
     "image": "credit.jpg",
     "category": "coding",
     "links": {
-      "view": "https://drive.google.com/file/d/1HG4IxRT1aVtkvHjUDEyszgrnA3L_K1AB/view?usp=sharing",
+      "view": "https://github.com/cosmanatlol/mlc-sp25-car",
       "code": "https://github.com/cosmanatlol/mlc-sp25-car"
     }
   },
@@ -56,6 +56,16 @@
     "category": "coding",
     "links": {
       "view": "https://github.com/cosmanatlol/Portfolio-Website-Manat/blob/main/projects/wordle.md"
+    }
+  },
+   {
+    "name": "Electricity Consumption Analysis",
+    "desc": "Built an interactive Power BI dashboard analyzing the relationship between weather patterns and household electricity consumption in Singapore, enabling users to explore trends, correlations, and seasonal demand through dynamic year-based filtering.",
+    "image": "weather.jpg",
+    "category": "coding",
+    "links": {
+      "view": "https://github.com/cosmanatlol/Weather-Electricity-Correlation",
+      "code": "https://github.com/cosmanatlol/Weather-Electricity-Correlation"
     }
   }
 ]
