@@ -138,7 +138,7 @@ function showProjects(projects) {
         origin: 'top',
         distance: '80px',
         duration: 1000,
-        reset: true
+        reset: false
     });
 
     /* SCROLL PROJECTS */
@@ -208,7 +208,7 @@ const srtop = ScrollReveal({
     origin: 'top',
     distance: '80px',
     duration: 1000,
-    reset: true
+    reset: false
 });
 
 /* SCROLL HOME */
@@ -252,7 +252,7 @@ ScrollReveal().reveal('.work .box', {
     distance: '40px',
     duration: 1000,
     interval: 200,
-    reset: true,
+    reset: false,
     viewFactor: 0.1,
     viewOffset: {
         top: 0,
